@@ -12,7 +12,6 @@ Website resmi ANOMALI Sleeping Bags, tempat Anda dapat menemukan informasi tenta
 
 * HTML5
 * CSS3
-* JavaScript
 
 ## Cara Menggunakan
 
